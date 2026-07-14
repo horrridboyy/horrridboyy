@@ -10,13 +10,10 @@
 - 🛠️ Exploring the full stack: Python + scikit-learn + Pandas for core ML, LangChain/LlamaIndex + vector DBs for RAG, and OpenAI/Anthropic APIs for agent frameworks
 
 ### ⚡ How I work
-- 💻 I use **Claude Code** daily to write, debug, and ship code faster — from fixing pipeline bugs to scaffolding new projects
-- 🤝 I use **Claude Cowork** for heavier multi-step work — research, structuring learning plans, and managing multi-file AI projects end-to-end
-- 🧠 AI-assisted development isn't a side tool for me — it's part of how I build, debug, and learn every day
-
-### 🎯 Currently learning
-- Core ML: Linear/Ridge/Lasso regression, model evaluation, pipeline construction
-- Next up: RAG architectures, vector embeddings, and multi-agent orchestration
+- 🧪 I learn by building — breaking pipelines on purpose just to understand why they broke
+- 📖 Mixing structured learning (courses, docs, papers) with hands-on practice on real datasets
+- 🔁 Iterating fast: build → debug → refactor → repeat
+- 💻 I also use Claude Code and Cowork to speed up debugging and manage multi-step AI projects
 
 ### 👯 Looking to collaborate on
 - Beginner-to-intermediate ML projects
