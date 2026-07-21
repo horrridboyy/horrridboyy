@@ -20,7 +20,7 @@
 - Agentic AI / LLM pipeline experiments
 
 ### 💬 Ask me about
-- scikit-learn, regression models, ML pipelines
+- scikit-learn, regression models, ML pipelines, Agentic AI Workflows
 - How I use Claude Code / Cowork in my AI engineering workflow
 
 ### 📫 How to reach me
